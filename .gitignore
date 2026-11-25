@@ -1,0 +1,12 @@
+# CLion build directories
+cmake-build-*/
+
+# IDE settings
+.idea/
+
+# Executables and compiled files
+*.exe
+*.o
+*.obj
+*.dll
+*.pdb
